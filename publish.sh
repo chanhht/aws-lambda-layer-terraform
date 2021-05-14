@@ -1,0 +1,1 @@
+aws lambda publish-layer-version --layer-name lambda-layer-terraform --zip-file fileb://layer.zip
